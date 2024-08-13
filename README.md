@@ -1,4 +1,4 @@
-# Little Lemon Restaurant
+# Little Lemon website
 
 Final capstone project for Meta Front-end developer program on Coursera, which contains a detailed and responsive website with table-booking functionality built using React.
 
@@ -26,8 +26,8 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 ### Install and Run:
 
-- Run 'npm start' on the reserve-a-table folder
+- Run 'npm start' on the project folder
 
 ### Author
 
-- [Ephrem Getachew](https://github.com/Ephrem2166)
+- [Bryan Nykaupeta](https://github.com/Keep_It_Simple01)
